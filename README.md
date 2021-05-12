@@ -1,4 +1,4 @@
 # Algorithms-For-Massive-Data
-Project by Thomas Leni and Carlo Sanzogni for Algorithms For Massive Data Exam of Professor Malchiodi.
+Joint Project by Thomas Leni and Carlo Sanzogni for Statistical Methods for Machine Learning of Professor Cesa-Bianchi asnd Algorithms For Massive Data Exam of Professor Malchiodi.
 
-Here you will find the code used and the PDF report.
+Here you will find two codes, one for the Linear Models and one for the Neural Network, and the PDF report.
